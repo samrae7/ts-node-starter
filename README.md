@@ -1,12 +1,12 @@
-#ts-node starter
+# ts-node starter
 
-##Set-up
+## Set-up
 
 ```
 yarn
 ```
 
-The you can run scripts like this
+Then you can run scripts like this
 
 ```
 yarn ts-node script.ts
